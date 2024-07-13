@@ -18,3 +18,5 @@ Com base num dataset do kaggle que contém as avaliações dos 100 livros mais v
 * Streamlit
 * Pandas
 * Ploty Express
+
+![image](https://github.com/user-attachments/assets/699f3104-7609-44eb-9ded-b50cb597f19d)
